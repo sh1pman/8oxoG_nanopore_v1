@@ -1,0 +1,2 @@
+Val_Type	Epoch	Iteration	Accuracy	Confusion_Matrix	Loss	Num_Calls	Filtered_Fraction	Filtered_Accuracy	Filtered_Confusion_Matrix	Filtered_Threshold
+val	0	0	0.997554	[[0,0],[5,2039]]	0.009290	2044	0.1003	1.000000	[[0,0],[0,1839]]	0.9998055338859558

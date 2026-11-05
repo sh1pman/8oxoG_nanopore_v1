@@ -1,0 +1,9 @@
+construct	insert_offset	pos0	half_width	ox_window_pct	ctl_window_pct	delta	percentile_vs_background	background_p99	delta_over_p99
+38oxoG1	2	2587	12	2.83	1.36	1.47	100.0	0.30	4.9
+38oxoG1	2	2587	5	2.95	0.75	2.20	100.0	0.56	3.9
+38oxoG2	7	2592	12	4.78	1.23	3.54	100.0	0.35	10.2
+38oxoG2	7	2592	5	6.82	1.00	5.82	100.0	0.62	9.4
+38oxoG3	14	2599	12	6.66	1.42	5.24	100.0	0.30	17.2
+38oxoG3	14	2599	5	10.99	1.93	9.06	100.0	0.63	14.4
+38oxoG4	19	2604	12	3.65	1.76	1.89	100.0	0.31	6.1
+38oxoG4	19	2604	5	4.25	1.95	2.30	100.0	0.53	4.3

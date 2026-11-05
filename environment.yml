@@ -1,0 +1,13 @@
+name: oxog-v1
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - samtools>=1.17
+  - pip
+  - pip:
+      - ont-remora==3.3.0   # pulls in pod5, pysam, torch
+# Not available via conda/pip in the versions used; install the binaries separately:
+#   Dorado 1.1.1  https://github.com/nanoporetech/dorado
+#   modkit 0.5.0  https://github.com/nanoporetech/modkit/releases/tag/v0.5.0

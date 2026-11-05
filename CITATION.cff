@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this model or data, please cite the article below."
+title: "8-oxoG nanopore decoder v1 (ONT R10.4.1): model and validation data"
+version: 1.0.0
+date-released: 2026-11-05          # TODO: set to the GitHub release date
+license: MIT
+repository-code: "https://github.com/sh1pman/8oxoG_nanopore_v1"      # TODO
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23977043"          # TODO: DOI of the Zenodo data record
+    description: "Plasmid validation reads (POD5)"
+authors:
+  - family-names: Sergeev
+    given-names: A. V.
+    orcid: "https://orcid.org/0000-0002-0479-6910"
+    affiliation: "Lomonosov Moscow State University"
+  - family-names: Genatullina
+    given-names: A. I.
+  - family-names: Grigorieva
+    given-names: M. A.
+  - family-names: Chuprikova
+    given-names: M. M.
+  - family-names: Meschaninova
+    given-names: M. I.
+  - family-names: Zharkov
+    given-names: D. O.
+    orcid: "https://orcid.org/0000-0001-5013-0194"
+  - family-names: Zvereva
+    given-names: M. E.
+    orcid: "https://orcid.org/0000-0002-7432-1574"
+preferred-citation:
+  type: article
+  title: "DNA libraries for training a neural network model for nanopore signal decoding: the case of oxidative damage to guanosine residues"
+  journal: "Biomedical Chemistry: Research and Methods"
+  year: 2026
+  authors:
+    - family-names: Sergeev
+      given-names: A. V.
+    - family-names: Genatullina
+      given-names: A. I.
+    - family-names: Grigorieva
+      given-names: M. A.
+    - family-names: Chuprikova
+      given-names: M. M.
+    - family-names: Meschaninova
+      given-names: M. I.
+    - family-names: Zharkov
+      given-names: D. O.
+    - family-names: Zvereva
+      given-names: M. E.

@@ -1,0 +1,25 @@
+[general]
+creation_date = "05/26/2026, 23:16:05"
+model = "conv_lstm"
+
+[model_params]
+size = 64
+kmer_len = 9
+num_out = 2
+
+[modbases]
+mod_bases = [ "o",]
+offset = 0
+reverse_signal = false
+base_start_justify = false
+mod_long_names_0 = "8oxoG"
+chunk_context_0 = 50
+chunk_context_1 = 50
+kmer_context_bases_0 = 4
+kmer_context_bases_1 = 4
+motif = "G"
+motif_offset = 0
+
+[refinement]
+refine_do_rough_rescale = 1
+refine_kmer_center_idx = 6
